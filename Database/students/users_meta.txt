@@ -1,0 +1,6 @@
+COLUMN|id| INT| PRIMARY
+COLUMN|firstname| TEXT
+COLUMN|lastName| TEXT
+COLUMN|city| TEXT
+COLUMN|state| TEXT
+COLUMN|country| TEXT

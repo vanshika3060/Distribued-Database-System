@@ -1,0 +1,4 @@
+departmentID | int| Primary
+name| String
+income | int
+courseID | int | unique | Foreign | course

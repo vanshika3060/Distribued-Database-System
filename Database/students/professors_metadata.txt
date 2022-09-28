@@ -1,0 +1,3 @@
+professorId | int| Primary
+name| String
+income | int

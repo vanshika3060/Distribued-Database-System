@@ -1,0 +1,2 @@
+id(int@PK)|firstname(text)|lastname(text)|
+1| pooja| anandani

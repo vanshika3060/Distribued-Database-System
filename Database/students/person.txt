@@ -1,0 +1,3 @@
+id(int@PK) | firstname(text) | lastname(text)
+99 | dhruv | vansia 
+100 | oo | v 

@@ -1,0 +1,6 @@
+id(INT@PK)|firstname(TEXT)|lastName(TEXT)|city(TEXT)|state(TEXT)|country(TEXT)|
+1| pooja| anandani| ahmedabad| gujarat| india
+2| shivangi| bhatt| ahmedabad| gujarat| india
+3| vanshika| shah| ahmedabad| gujarat| india
+4| pooja| shah| surat| gujarat| india
+

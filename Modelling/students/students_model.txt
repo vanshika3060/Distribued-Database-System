@@ -1,0 +1,34 @@
+Table Name: department
+Column info: 
+	departmentID | int| Primary
+	name| String
+	income | int
+	courseID | int | unique | Foreign | course
+
+
+Table Name: person
+Column info: 
+	id|int| primary| key
+	firstname|text
+	lastname|text
+
+
+Table Name: professors
+Column info: 
+	professorId | int| Primary
+	name| String
+	income | int
+
+
+Table Name: users
+Column info: 
+	COLUMN|id| INT| PRIMARY
+	COLUMN|firstname| TEXT
+	COLUMN|lastName| TEXT
+	COLUMN|city| TEXT
+	COLUMN|state| TEXT
+	COLUMN|country| TEXT
+
+
+Cardinality: 
+department one-to-one course

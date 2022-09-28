@@ -1,0 +1,1 @@
+courseid(int@PK)|name(text)|

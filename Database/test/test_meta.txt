@@ -1,0 +1,4 @@
+id| int| primary
+firstname| text
+lastname| text
+age| int

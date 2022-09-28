@@ -1,0 +1,2 @@
+courseid| int| primary
+name| text
